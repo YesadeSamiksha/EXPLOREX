@@ -134,12 +134,12 @@
             <div class="services-box">
                 <h3>Route</h3>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
-                <a href="index2.html" class="btn">Read More</a>
+                <a href="index.html" class="btn">Read More</a>
             </div>
             <div class="services-box">
                 <h3>Search</h3>
                 <p>Lorem ipsum dolor sit amet consectetur.</p>
-                <a href="map.html5" class="btn">Read More</a>
+                <a href="map.html" class="btn">Read More</a>
             </div>
             <div class="services-box">
                 <h3>Favourites</h3>
